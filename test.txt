@@ -1,0 +1,3 @@
+This is just a sentence written using nano from command line, another way is to use vim
+to do the same task, actually i am thinking to use only this from now on
+as this will help improve my typing and more importantly my editor skills.
